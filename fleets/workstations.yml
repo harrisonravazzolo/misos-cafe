@@ -17,6 +17,7 @@
 name: "💻 Workstations"
 controls:
   setup_experience:
+    bootstrap_package: $BOOTSTRAP_URL
     ###########################################################
     # Configure the macOS setup experience
     #
